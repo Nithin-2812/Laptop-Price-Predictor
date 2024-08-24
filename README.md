@@ -6,7 +6,7 @@ The Laptop Price Predictor Web App is a Streamlit-based application that estimat
 ## Demo Video
 
 <p align="center">
-  <img src="https://github.com/Nithin-2812/Movie-Recommender-System/blob/main/MovieRecSys_demo.gif" alt="animated" />
+  <img src="https://github.com/Nithin-2812/Laptop-Price-Predictor/blob/main/Laptop%20price%20pred%20Gif.gif" alt="animated" />
 </p>
 
 ## Features
